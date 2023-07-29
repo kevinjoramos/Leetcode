@@ -1,2 +1,2 @@
 # Leetcode
-This is a collection of my solutions for Leetcode questions.
+Leetcode exercices to sharpen my problem solving skills.
