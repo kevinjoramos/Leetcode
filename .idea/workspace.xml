@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1acbceef-bf1d-4c72-966a-bed7f77cf7d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/coderbyte/CodelandUsernameValidation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +39,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -98,6 +100,7 @@
       <workItem from="1690832317420" duration="19000" />
       <workItem from="1690944181784" duration="5000" />
       <workItem from="1690949880415" duration="3000" />
+      <workItem from="1691211847956" duration="483000" />
     </task>
     <servers />
   </component>
