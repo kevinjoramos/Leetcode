@@ -37,9 +37,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -111,6 +111,8 @@
       <workItem from="1691279948536" duration="336000" />
       <workItem from="1691301497269" duration="4500000" />
       <workItem from="1691377431780" duration="4000" />
+      <workItem from="1691472365125" duration="451000" />
+      <workItem from="1691511968733" duration="5000" />
     </task>
     <servers />
   </component>
