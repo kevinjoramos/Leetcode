@@ -64,7 +64,7 @@ fun removeDuplicates(nums: IntArray): Int {
     }
 
     // Since the nextUniqueValueSpot will always point to the index after the last unique value, it is also the
-    // size k because Size = lastIndex + 1.
+    // size k because Size = lastIndex + 1. 
     return nextUniqueValueSpot
 
 }
