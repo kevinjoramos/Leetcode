@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1acbceef-bf1d-4c72-966a-bed7f77cf7d7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/leetcode/RemoveDuplicatesFromSortedArray_26.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode/RemoveDuplicatesFromSortedArray_26.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +117,8 @@
       <workItem from="1691559890127" duration="187000" />
       <workItem from="1691563928304" duration="3493000" />
       <workItem from="1691605974099" duration="611000" />
+      <workItem from="1691731257522" duration="3811000" />
+      <workItem from="1691809933135" duration="209000" />
     </task>
     <servers />
   </component>
