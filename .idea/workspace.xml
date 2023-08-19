@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1acbceef-bf1d-4c72-966a-bed7f77cf7d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode/KeyboardRow_500.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode/VerifyingAnAlienDictionary_953.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/leetcode/LengthOfLastWord_58.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode/LengthOfLastWord_58.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +121,8 @@
       <workItem from="1691731257522" duration="3811000" />
       <workItem from="1691809933135" duration="209000" />
       <workItem from="1692279343012" duration="717000" />
-      <workItem from="1692414726716" duration="4464000" />
+      <workItem from="1692414726716" duration="5725000" />
+      <workItem from="1692459711284" duration="602000" />
     </task>
     <servers />
   </component>
