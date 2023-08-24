@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1acbceef-bf1d-4c72-966a-bed7f77cf7d7" name="Changes" comment="" />
+    <list default="true" id="1acbceef-bf1d-4c72-966a-bed7f77cf7d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode/CheckIfNAndItsDoubleExist_1346.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,6 +123,8 @@
       <workItem from="1692279343012" duration="717000" />
       <workItem from="1692414726716" duration="5725000" />
       <workItem from="1692459711284" duration="760000" />
+      <workItem from="1692705112705" duration="541000" />
+      <workItem from="1692807707379" duration="849000" />
     </task>
     <servers />
   </component>
