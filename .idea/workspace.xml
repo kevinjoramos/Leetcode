@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1acbceef-bf1d-4c72-966a-bed7f77cf7d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode/UniqueEmailAddresses_929.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,6 +127,9 @@
       <workItem from="1692807707379" duration="849000" />
       <workItem from="1692854739787" duration="653000" />
       <workItem from="1692896978242" duration="4000" />
+      <workItem from="1692942118841" duration="256000" />
+      <workItem from="1693027410158" duration="182000" />
+      <workItem from="1697060029349" duration="1543000" />
     </task>
     <servers />
   </component>
